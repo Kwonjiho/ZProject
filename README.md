@@ -1,2 +1,2 @@
 # ZProject
-내가 (돈 1972만원)을 빌려서 만든 흑자는 안나고 적자만 나는 GRAB 마켓
+Super intresting Simple Code Making
